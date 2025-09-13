@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+requests
+pymongo
+pdfplumber
+phidata
+google-generativeai
+duckduckgo-search
